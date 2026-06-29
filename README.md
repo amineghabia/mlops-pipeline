@@ -1,4 +1,4 @@
-# MLOps Pipeline — LunarLander RL Agent
+# MLOps Pipeline: LunarLander RL Agent
 
 End-to-end MLOps pipeline for a Reinforcement Learning model: experiment tracking, REST API inference, and multi-service containerization.
 
