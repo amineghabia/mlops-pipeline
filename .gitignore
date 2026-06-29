@@ -1,0 +1,12 @@
+# Modèles (trop lourds pour Git)
+*.zip
+
+# MLflow
+mlflow.db
+mlruns/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
