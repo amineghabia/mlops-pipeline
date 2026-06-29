@@ -2,7 +2,7 @@
 
 End-to-end MLOps pipeline for a Reinforcement Learning model: experiment tracking, REST API inference, and multi-service containerization.
 
-The model (PPO) was trained on the `LunarLander-v3` environment and achieves a mean reward of **279/300** — well above the 200-point threshold for solving the environment.
+The model (PPO) was trained on the `LunarLander-v3` environment and achieves a mean reward of **279/300**, well above the 200-point threshold for solving the environment.
 
 ---
 
